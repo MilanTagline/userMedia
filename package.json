@@ -1,6 +1,6 @@
 {
-  "homepage": "http://MilanTagline.github.io/PWA",
-  "name": "validationform",  
+  "homepage": "http://MilanTagline.github.io/userMedia",
+  "name": "validationform",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
